@@ -1,10 +1,15 @@
 div {
-    width: 400px;
-    height: 200px;
+    width: 600px;
+    height: 400px;
     background-color: red;
-    border-radius: 50px;
-    border: 20px groove tomato;
-    background-image: url("../../000_img/pup.jpg");
+    border-radius: 140px;
+    border: 40px groove #ff4781;
+    background-image: url("../../000_img/kiko.jpg");
     background-size: cover;
     background-repeat: no-repeat;
+}
+text {
+    text-justify: auto;
+    text-decoration-color: crimson;
+    text-decoration-line: blink;
 }
