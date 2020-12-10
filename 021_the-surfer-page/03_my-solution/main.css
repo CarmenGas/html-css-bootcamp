@@ -1,0 +1,39 @@
+html {
+    background-color: dodgerblue;
+}
+
+body {
+    width: 70%;
+    margin: 50px auto;
+    background-color: greenyellow;
+    border: 5px solid deeppink;
+}
+
+
+img {
+    display: block;
+    margin-left: 90px;
+    margin-top: 30px;
+    border-radius: 100%;
+    border: 30px groove dodgerblue;
+
+}
+#image1 {
+    width: 50%;
+    height: 50%;
+    display: block;
+    margin:  0 auto;
+    border-radius: 10%;
+    border: 10px solid blueviolet;
+
+}
+
+#promote1{
+    margin-left: 20px;
+    color: coral;
+
+}
+#promote2{
+    margin: 20px auto;
+    color: cyan;
+}
