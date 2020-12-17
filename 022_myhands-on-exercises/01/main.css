@@ -1,0 +1,25 @@
+
+#third {
+    color: red;
+    font-style: italic;
+    font-weight: bold;
+}
+
+#tenth {
+    color: green;
+    font-weight: bold;
+}
+
+#twentyth {
+    color: dodgerblue;
+    font-weight: bold;
+    font-family: "Bookman Old Style";
+}
+
+#fourteenth {
+    font-family: "Franklin Gothic Book";
+    color: goldenrod;
+}
+ol{
+    font-size: x-large;
+}

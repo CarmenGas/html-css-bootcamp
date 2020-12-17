@@ -93,7 +93,7 @@ html {
     font-family: sans-serif; /* 3 */
     line-height: 1.5; /* 3 */
     -ms-text-size-adjust: 100%; /* 4 */
-    -webkit-text-size-adjust: 100%; /* 5 */
+    -webkit-text-size-adjust: 100%; /* 05 */
 }
 
 /* Sections (https://www.w3.org/TR/html5/sections.html)
