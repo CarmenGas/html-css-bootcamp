@@ -34,7 +34,12 @@ div {
     justify-content: center;
 }
 
-div:last-child {
+div:nth-child(1n+2) {
     border-left: 1px solid black;
 }
 
+p {color: black;}
+.blue {color: blue;}
+.red {color: red;}
+#red {color: red;}
+#mas {color: green;}

@@ -28,7 +28,7 @@ main {
     display: flex;
     justify-content: flex-start;
     align-items: center;
-    border: 1px solid black;
+    border: 2px solid mediumvioletred;
 }
 
 div {
@@ -39,15 +39,36 @@ div {
 }
 
 #html {
-    width: 60%;
+    width: 70%;
+    /*align-items: center;*/
 }
 
 #css {
     width: 40%;
 }
 
-div:last-child {
-    border-left: 1px solid black;
+div:nth-child(1n+2) {
+    border-left: 3px solid magenta;
+}
+#rslts{
+    padding: 0 0 0 10px;
+    text-align: center;
+    color: red;
+}
+
+.favorite {
+    color: red;
+}
+
+ul#summer-drinks li {
+    color: blue;
+}
+#spec{
+    color: cornflowerblue;
+    font-weight: bold;
+    text-align: center;
+    border-top: 4px double cornflowerblue;
+    border-bottom: 4px double cornflowerblue;
 }
 
 footer {
@@ -59,5 +80,5 @@ footer {
 }
 
 small {
-    padding: 5px 10px;
+    padding: 20px 30px;
 }

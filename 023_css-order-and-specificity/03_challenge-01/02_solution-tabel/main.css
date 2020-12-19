@@ -23,7 +23,7 @@ main {
     display: flex;
     justify-content: flex-start;
     align-items: center;
-    border: 1px solid black;
+    border: 2px solid orange;
 }
 
 div {
@@ -35,7 +35,7 @@ div {
 }
 
 div:nth-child(1n+2) {
-    border-left: 1px solid black;
+    border-left: 4px solid violet;
 }
 
 p {color: black;}

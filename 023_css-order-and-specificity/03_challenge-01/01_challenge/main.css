@@ -10,6 +10,8 @@ html, body, div, p {
 
 html {
     font-size: 2vw;
+    /*font-size: 2em;*/
+    /*font-size: 1.6rem;*/
 }
 
 body {
@@ -38,3 +40,18 @@ div:last-child {
     border-left: 1px solid black;
 }
 
+p{
+    color: green;
+}
+
+.blue{
+    color: blue;
+}
+
+#red{
+    color: red;
+}
+
+#alsored{
+    color: red;
+}

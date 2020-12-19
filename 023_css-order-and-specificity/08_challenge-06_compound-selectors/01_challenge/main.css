@@ -46,7 +46,7 @@ div {
     width: 40%;
 }
 
-div:last-child {
+div:nth-child(1n+2) {
     border-left: 1px solid black;
 }
 
