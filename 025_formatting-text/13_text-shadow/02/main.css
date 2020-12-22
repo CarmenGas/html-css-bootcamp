@@ -3,16 +3,20 @@ html {
 }
 
 p {
-    font-size: 3rem;
+    color: indianred;
+    font-size: 4rem;
+    text-shadow: 2px 2px 1px #F3FCD0;
     border: 1px solid black;
     width: 1200px;
     padding: 20px;
 }
 
 h1 {
-    font-size: 8rem;
-    text-shadow: 3px 3px 1px #c9c9c9;
-    border: 3px solid black;
+    color: saddlebrown;
+    font-size: 12rem;
+    text-shadow: 6px 6px 1px #F3FCD0;
+    /*text-shadow: 6px 3px 1px #F8A3F6;*/
+    border: 6px solid greenyellow;
     width: 1300px;
 }
 

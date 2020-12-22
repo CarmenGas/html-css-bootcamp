@@ -1,12 +1,12 @@
 p{
     border: 5px solid green;
-    line-height: 2;
+    line-height: 3;
     /* formatting*/
-    width: 600px;
+    width: 700px;
     margin: 0 auto;
-    padding: 1rem;
+    padding: 6rem;
 }
 
 span {
-    border: 1px dashed black;
+    border: 1px dashed red;
 }
