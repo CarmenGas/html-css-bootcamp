@@ -1,9 +1,9 @@
 p {
-    border: 1px solid black;
+    border: 1px solid red;
 }
 
 div {
-    border: 2px solid #000;
+    border: 2px solid #0ebfe9;
     width: 500px;
     margin: 20px auto;
 }

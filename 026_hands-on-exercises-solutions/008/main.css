@@ -1,0 +1,22 @@
+html{
+    color: blue;
+    font-family: sans-serif;
+}
+p1{
+    color: darkcyan;
+    text-decoration-line:line-through;
+}
+
+p2{
+    color: crimson;
+    text-decoration-line:overline;
+    /*text-decoration-line: underline;*/
+    text-decoration-style: wavy;
+}
+
+p3{
+    color: darkorange;
+    text-decoration-line: underline;
+    text-decoration-color: darkblue;
+    text-decoration-style: double;
+}

@@ -1,0 +1,16 @@
+html{
+    color: blue;
+    font-family: sans-serif;
+
+}
+h1{
+    color: crimson;
+    text-align: center;
+    text-decoration-line: underline;
+    text-decoration-style: wavy;
+    text-transform: uppercase;
+}
+p{
+    text-indent: 40px;
+    line-height: 1.5;
+}

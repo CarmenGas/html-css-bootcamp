@@ -1,0 +1,20 @@
+h1{
+    color: #F90101 ;
+}
+
+p{
+    border: 1px solid red;
+}
+div{
+    border: 2px solid #5c9e19;
+    width: 500px;
+    margin: 20px auto;
+}
+.border-me {
+    border: 30px solid #5c9e19;
+}
+
+.border-box {
+    border: 30px solid #16A2D7;
+    box-sizing: border-box;
+}

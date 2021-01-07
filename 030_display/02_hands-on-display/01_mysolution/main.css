@@ -1,0 +1,20 @@
+
+div{
+    height: 50px;
+    width: 100px;
+    border: 2px solid black;
+    border-radius: 40px;
+    display: inline-block;
+}
+.col1{
+    background-color: red;
+}
+.col2{
+    background-color: blue;
+}
+.col3{
+    background-color: yellow;
+}
+.col4{
+    background-color: green;
+}

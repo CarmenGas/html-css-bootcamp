@@ -1,0 +1,19 @@
+
+html{
+    font-family: 'Dancing Script', cursive;
+}
+h1{
+    font-weight: 700;
+    color: red;
+}
+h2{
+    font-weight: 500;
+    color: blue;
+}
+
+p{
+    color: green;
+    font-weight: 400;
+
+
+}

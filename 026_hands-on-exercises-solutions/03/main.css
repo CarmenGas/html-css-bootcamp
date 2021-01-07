@@ -4,8 +4,10 @@ html {
 
 h1 {
     font-weight: 400;
+    color: chocolate;
 }
 
 p {
     font-weight: 900;
+    color: red;
 }
