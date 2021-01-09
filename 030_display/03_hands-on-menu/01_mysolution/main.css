@@ -1,0 +1,22 @@
+html {
+    font-size: 2rem;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    /*height: 40px;*/
+    /*width: 200px;*/
+
+    padding: 10px;
+    border: 2px solid red;
+    border-radius: 50px;
+    display: inline-block;
+
+    background-color: cyan;
+    text-align: center;
+    text -decoration: none;
+
+}
