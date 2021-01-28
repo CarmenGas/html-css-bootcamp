@@ -1,0 +1,22 @@
+ul {
+    list-style: none;
+    background: deepskyblue;
+}
+
+a {
+     padding: 20px 0;
+     text-decoration: none;
+     color: cornsilk;
+     text-align: center;
+     border-top: 1px solid whitesmoke;
+     border-bottom: 1px solid lightgrey;
+ }
+
+a:hover {
+    background: royalblue;
+}
+
+li:last-child {
+    border-bottom: none;
+// background-color: red;
+}

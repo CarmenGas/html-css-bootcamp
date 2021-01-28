@@ -1,0 +1,44 @@
+
+.c1 {
+    color: yellow;
+    background-color: darkred;
+
+}
+.c2 {
+    color: yellow;
+    background-color: #F38630;
+}
+.c3 {
+    color: yellow;
+    background-color: #d29ecf;
+    background-image: url("../../../../000_img/kiko.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.c4 {
+    color: yellow;
+    background-color: palevioletred;
+}
+.c5 {
+    color: yellow;
+    background-color: deeppink;
+}
+.c6 {
+    color: yellow;
+    /*background-color: hotpink;*/
+    background-image: url("../../../../000_img/kiko1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.c7 {
+    color: yellow;
+    background-color: pink;
+}
+.c8 {
+    color: yellow;
+    /*background-color: #9d97c9;    */
+    background-image: url("../../../../000_img/kiko2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}

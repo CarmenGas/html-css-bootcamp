@@ -14,7 +14,7 @@ main {
     flex-wrap: nowrap;
     flex-direction: column;
     justify-content: flex-end;
-    align-items: flex-start;
+    align-items: flex-end;
 }
 
 div {
@@ -26,5 +26,5 @@ div {
     font: bold 2rem/1 sans-serif;
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: baseline;
 }

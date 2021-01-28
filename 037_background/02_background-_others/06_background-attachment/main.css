@@ -1,4 +1,4 @@
-html, body, div, h1 {
+ html, body, div, h1 {
     padding: 0;
     border: 0;
     margin: 0;
@@ -17,6 +17,7 @@ html, body, div, h1 {
     background-size: cover;
     background-position: bottom;
     background-attachment: fixed;
+    /*background-attachment: scroll;*/
 }
 
 h1 {

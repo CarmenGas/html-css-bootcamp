@@ -1,0 +1,21 @@
+ul{
+    list-style: none;
+    background: deepskyblue;
+}
+a {
+    text-decoration: none;
+    text-align: center;
+    /*background: deepskyblue;*/
+    color: cornsilk;
+    padding: 20px 0;
+    border-top: 1px solid lightgrey;
+    border-bottom: 1px solid cornsilk;
+}
+
+a:hover{
+    background-color: royalblue;
+}
+
+/*li:last-child {*/
+/*    border-bottom: none;*/
+/*}*/

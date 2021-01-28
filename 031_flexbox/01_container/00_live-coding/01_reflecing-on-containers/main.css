@@ -6,7 +6,7 @@ div {
 }
 
 header {
-    display: flex;
+    display: flex; /*flex items*/
     /*flex-direction: row;*/
     /*flex-wrap: nowrap;*/
     justify-content: space-between;

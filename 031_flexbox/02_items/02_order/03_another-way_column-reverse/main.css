@@ -3,6 +3,7 @@ body {
     flex-flow: column-reverse wrap;
     /* formatting */
     border: 5px solid red;
+    height: 600px;
 }
 
 div {

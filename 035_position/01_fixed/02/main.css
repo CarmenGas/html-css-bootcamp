@@ -28,5 +28,16 @@ div {
     height: 1500px;
     background-color: #45ADA8;
     border: 5px dashed red;
+    color: #fff;
+    font-weight: bold;
+    text-align: center;
+}
+
+#three {
+    position: fixed;
+    top: 120px;
+    left: 140px;
+    color: red;
+    font-size: 60px;
 }
 

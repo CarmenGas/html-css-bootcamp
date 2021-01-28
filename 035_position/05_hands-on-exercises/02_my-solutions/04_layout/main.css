@@ -1,0 +1,23 @@
+body{
+    position: relative;
+    /*formatting*/
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+#left{
+    position: absolute;
+    /*formatting*/
+    width: 180px;
+    height: 400px;
+    padding-left: 10px;
+    border: 2px solid red;
+}
+
+#right{
+    margin-left: 190px;
+    /*formatting */
+    height: 400px;
+    padding-left: 10px;
+    border: 2px solid black;
+ }

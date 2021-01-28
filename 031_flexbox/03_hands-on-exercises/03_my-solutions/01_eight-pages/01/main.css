@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    flex-flow: wrap row-reverse;
+    /* formatting */
+    border: #16A2D7 5px solid;
+}
+
+div{
+    flex-grow: 1 ;
+    /* formattin g */
+    width: 200px;
+    height: 100px;
+    border: 2px solid red;
+    margin: 1em;
+    background-color: lightgrey;
+    text-align: center;
+}

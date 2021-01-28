@@ -1,0 +1,12 @@
+ul{
+    flex-flow: row nowrap;
+    justify-content: flex-end;
+}
+a {
+    padding: 1em;
+    /*text-decoration: none;*/
+    /*text-align: center;*/
+    border-left: 1px solid lightgrey;
+    border-right: 1px solid cornsilk;
+    border-bottom: none;
+}

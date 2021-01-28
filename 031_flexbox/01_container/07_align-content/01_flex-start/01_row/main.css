@@ -37,4 +37,6 @@ div {
     border: 1px solid red;
     background-color: darkgray;
     text-align: center;
+    /*flex-grow: 1;*/
+
 }

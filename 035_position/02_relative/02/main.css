@@ -11,7 +11,8 @@ div {
 
 #one {
     position: relative;
-    right: 10px;
+    right: 20px;
+    top: 20px;
     /* formatting */
     background-color: green;
 }

@@ -1,0 +1,15 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+div{
+    height: 400px;
+    width: 400px;
+    border: 20px ridge orange;
+
+    background-image: url("dog.png") ;
+    background-repeat: no-repeat;
+    background-size: contain;
+
+}

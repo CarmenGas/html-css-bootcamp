@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    padding: 15px;
+    /* space: enough for the edge of the viewport a liitle */
+    border: 0;
+}
+#s1{
+    width: 100%;
+    height: 50px;
+    background: #F38630;
+    border-radius: 6px;
+}
+#s2{
+    float: left;
+    width: 24%;
+    height: 300px;
+    margin-top: 10px;
+    margin-right: 10px;
+    background: #A7DBD8;
+    border-radius: 6px;
+}
+#s3{
+    float: right;
+    width: 74%;
+    height: 300px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 0px;
+    background: #E0E4CC;
+    border-radius: 6px;
+}
+#s4{
+    clear: both;
+    /*width: 100%;*/
+    height: 50px;
+    background: #69D2E7;
+    border-radius: 6px;
+}
