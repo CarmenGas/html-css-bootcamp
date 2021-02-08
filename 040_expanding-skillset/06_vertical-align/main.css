@@ -23,11 +23,12 @@ div {
 }
 
 p {
-    font-size: 5rem;
+    font-size: 4rem;
     text-transform: uppercase;
     border: 1px solid black;
 }
 
 span {
     vertical-align: 40px;
+    /*vertical-align: -40px;*/
 }

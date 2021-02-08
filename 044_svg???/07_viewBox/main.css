@@ -1,4 +1,4 @@
-html, body, pre, code, h1, h2 {
+ html, body, pre, code, h1, h2 {
     padding: 0;
     border: 0;
     margin: 0;
@@ -16,6 +16,7 @@ body {
 section {
     display: flex;
     justify-content: space-around;
+    border: 2px solid blue;
 }
 
 svg {
@@ -24,4 +25,5 @@ svg {
 
 code {
     font-size: 1.6rem;
+    /*border: 4px solid blueviolet;*/
 }

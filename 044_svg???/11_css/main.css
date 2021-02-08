@@ -34,3 +34,16 @@ legend {
     stroke: red;
     stroke-width: 2px;
 }
+
+.c3 {
+    width: 20rem;
+    height: 20rem;
+    fill: green;
+    stroke: black;
+}
+
+.c3:hover {
+    fill: hotpink;
+    stroke: red;
+    stroke-width: 2px;
+}

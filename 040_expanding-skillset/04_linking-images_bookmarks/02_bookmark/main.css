@@ -3,6 +3,9 @@ html, body, header, main, ul {
     border: 0;
     margin: 0;
 }
+/*header{*/
+/*    border: 9px solid green;*/
+/*}*/
 
 main {
     /* formatting */
@@ -15,9 +18,11 @@ li {
     display: flex;
     flex-flow: row wrap;
     justify-content: center;
+    /*border: 20px solid red;*/
 }
 
 a {
     display: block;
     padding: 1em;
+    /*border: 5px solid green;*/
 }
